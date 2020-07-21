@@ -10,10 +10,8 @@ public class App {
 	public void map() {
 		System.out.println("check for Google map");
 	}
-	public void googlePlus() {
-		System.out.println("check for Google plus");
+	
+	public void gmail() {
+		System.out.println("login to ur mail");
 	}
-	
-	
-	
 }
