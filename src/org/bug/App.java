@@ -18,6 +18,10 @@ public class App {
 	}
 	
 
+	public void googlePlus(){
+		System.out.println("googleplus");
+	}
+
 	public static void main(String[] args) {
 		System.out.println("this is main method");
 
