@@ -12,11 +12,12 @@ public class App {
 		System.out.println("check for Google map");
 	}
 	
+
 	public void gmail() {
 		System.out.println("login to ur mail");
 	}
 	
-	
+
 	public static void main(String[] args) {
 		System.out.println("this is main method");
 
