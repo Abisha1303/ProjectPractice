@@ -16,9 +16,7 @@ public class App {
 		System.out.println("login to ur mail");
 	}
 	
-	public void googlePlus{
-		System.out.println("googleplus");
-	}
+	
 	public static void main(String[] args) {
 		System.out.println("this is main method");
 
